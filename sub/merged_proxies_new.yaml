@@ -374,7 +374,7 @@ proxies:
       down: 55
 - name: None_None_vmess_71
   type: vmess
-  server: 162.159.129.111
+  server: 104.16.149.222
   port: 2095
   uuid: e9555d84-a146-4e36-9c23-eac28387be48
   alterId: 0
@@ -387,9 +387,9 @@ proxies:
     path: /WNh8bXQv/
     headers:
       Host: ip5.freegradely.xyz
-- name: None_None_vmess_72
+- name: Canada_Ottawa_vmess_72
   type: vmess
-  server: 162.159.136.208
+  server: 23.227.38.8
   port: 2095
   uuid: e9555d84-a146-4e36-9c23-eac28387be48
   alterId: 0
@@ -591,7 +591,7 @@ proxy-groups:
   - United States_Kansas City_vless_51
   - United States_Kansas City_ss_61
   - None_None_vmess_71
-  - None_None_vmess_72
+  - Canada_Ottawa_vmess_72
   - United States_San Francisco_vmess_73
   - None_None_vmess_74
   - United States_Kansas City_vless_81
@@ -633,7 +633,7 @@ proxy-groups:
   - United States_Kansas City_vless_51
   - United States_Kansas City_ss_61
   - None_None_vmess_71
-  - None_None_vmess_72
+  - Canada_Ottawa_vmess_72
   - United States_San Francisco_vmess_73
   - None_None_vmess_74
   - United States_Kansas City_vless_81
