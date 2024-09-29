@@ -14,12 +14,13 @@ def process_urls(url_file, processor):
         with open(url_file, "r") as file:
             urls = file.read().splitlines()
 
+        global unique_servers
         unique_servers = {}
         for index, url in enumerate(urls):
             try:
                 response = urllib.request.urlopen(url)
                 data = response.read().decode("utf-8")
-                processor(data, index, unique_servers)
+                processor(data, index)
             except Exception as e:
                 logging.error(f"Error processing URL {url}: {e}")
     except Exception as e:
@@ -27,7 +28,7 @@ def process_urls(url_file, processor):
 
 
 # 提取clash节点
-def process_clash(data, index, unique_servers):
+def process_clash(data, index):
     content = yaml.safe_load(data)
     proxies = content.get("proxies", [])
 
@@ -292,6 +293,8 @@ def update_warp_proxy_groups(config_warp_data, merged_proxies):
 geo_reader = geoip2.database.Reader(
     "GeoLite2-Country.mmdb"
 )
+
+unique_servers = {}
 
 # 包含hysteria2
 merged_proxies = []
