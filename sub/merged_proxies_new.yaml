@@ -1330,7 +1330,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: Unknown_vmess_092
+- name: US_United States_vmess_092
   type: vmess
   server: fbi.gov
   port: 2086
@@ -1345,7 +1345,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: Unknown_vmess_093
+- name: CA_Canada_vmess_093
   type: vmess
   server: shopify.com
   port: 2086
@@ -1360,7 +1360,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: Unknown_vmess_094
+- name: US_United States_vmess_094
   type: vmess
   server: icook.tw
   port: 2086
@@ -1375,7 +1375,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: Unknown_vmess_095
+- name: US_United States_vmess_095
   type: vmess
   server: ip.sb
   port: 2086
@@ -1390,7 +1390,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: Unknown_vmess_096
+- name: US_United States_vmess_096
   type: vmess
   server: japan.com
   port: 2086
@@ -1405,7 +1405,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: Unknown_vmess_097
+- name: US_United States_vmess_097
   type: vmess
   server: malaysia.com
   port: 2086
@@ -1420,7 +1420,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: Unknown_vmess_098
+- name: US_United States_vmess_098
   type: vmess
   server: russia.com
   port: 2086
@@ -1435,7 +1435,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: Unknown_vmess_099
+- name: US_United States_vmess_099
   type: vmess
   server: singapore.com
   port: 2086
@@ -1450,7 +1450,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: Unknown_vmess_0100
+- name: US_United States_vmess_0100
   type: vmess
   server: skk.moe
   port: 2086
@@ -1465,7 +1465,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: Unknown_vmess_0101
+- name: US_United States_vmess_0101
   type: vmess
   server: www.visa.com
   port: 2086
@@ -1753,16 +1753,16 @@ proxy-groups:
   - US_United States_vmess_089
   - US_United States_vmess_090
   - US_United States_vmess_091
-  - Unknown_vmess_092
-  - Unknown_vmess_093
-  - Unknown_vmess_094
-  - Unknown_vmess_095
-  - Unknown_vmess_096
-  - Unknown_vmess_097
-  - Unknown_vmess_098
-  - Unknown_vmess_099
-  - Unknown_vmess_0100
-  - Unknown_vmess_0101
+  - US_United States_vmess_092
+  - CA_Canada_vmess_093
+  - US_United States_vmess_094
+  - US_United States_vmess_095
+  - US_United States_vmess_096
+  - US_United States_vmess_097
+  - US_United States_vmess_098
+  - US_United States_vmess_099
+  - US_United States_vmess_0100
+  - US_United States_vmess_0101
   - US_United States_vmess_11
   - US_United States_vmess_21
   - CA_Canada_vmess_22
@@ -1868,16 +1868,16 @@ proxy-groups:
   - US_United States_vmess_089
   - US_United States_vmess_090
   - US_United States_vmess_091
-  - Unknown_vmess_092
-  - Unknown_vmess_093
-  - Unknown_vmess_094
-  - Unknown_vmess_095
-  - Unknown_vmess_096
-  - Unknown_vmess_097
-  - Unknown_vmess_098
-  - Unknown_vmess_099
-  - Unknown_vmess_0100
-  - Unknown_vmess_0101
+  - US_United States_vmess_092
+  - CA_Canada_vmess_093
+  - US_United States_vmess_094
+  - US_United States_vmess_095
+  - US_United States_vmess_096
+  - US_United States_vmess_097
+  - US_United States_vmess_098
+  - US_United States_vmess_099
+  - US_United States_vmess_0100
+  - US_United States_vmess_0101
   - US_United States_vmess_11
   - US_United States_vmess_21
   - CA_Canada_vmess_22
