@@ -28,11 +28,17 @@ def process_urls(url_file, processor):
 def process_clash(data, index):
     content = yaml.safe_load(data)
     proxies = content.get("proxies", [])
-    for i, proxy in enumerate(proxies):
-        location = get_physical_location(proxy["server"])
-        proxy["name"] = f"{location}_{proxy['type']}_{index}{i+1}"
-    merged_proxies.extend(proxies)
 
+    unique_proxies = {}
+
+    for i, proxy in enumerate(proxies):
+        server = proxy["server"]
+        if server not in unique_proxies:
+            location = get_physical_location(server)
+            proxy["name"] = f"{location}_{proxy['type']}_{index}{i+1}"
+            unique_proxies[server] = proxy
+
+    merged_proxies.extend(unique_proxies.values())
 
 def get_physical_location(address):
     address = re.sub(":.*", "", address)  # 用正则表达式去除端口部分
