@@ -1660,6 +1660,94 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip5-10.freegradely.xyz
+- name: PL_Poland_hy_0
+  type: hysteria
+  server: 91.149.239.23
+  port: 11223
+  ports: 11223
+  auth_str: dongtaiwang.com
+  up: 1000
+  down: 1000
+  fast-open: true
+  protocol: udp
+  sni: bing.com
+  skip-cert-verify: true
+  alpn:
+  - h3
+- name: US_United States_hy_1
+  type: hysteria
+  server: 166.1.221.169
+  port: 11223
+  ports: 11223
+  auth_str: dongtaiwang.com
+  up: 1000
+  down: 1000
+  fast-open: true
+  protocol: udp
+  sni: bing.com
+  skip-cert-verify: true
+  alpn:
+  - h3
+- name: US_United States_hy_2
+  type: hysteria
+  server: 166.1.221.169
+  port: 11223
+  ports: 11223
+  auth_str: dongtaiwang.com
+  up: 1000
+  down: 1000
+  fast-open: true
+  protocol: udp
+  sni: bing.com
+  skip-cert-verify: true
+  alpn:
+  - h3
+- name: US_United States_hy_3
+  type: hysteria
+  server: 166.1.221.169
+  port: 11223
+  ports: 11223
+  auth_str: dongtaiwang.com
+  up: 1000
+  down: 1000
+  fast-open: true
+  protocol: udp
+  sni: bing.com
+  skip-cert-verify: true
+  alpn:
+  - h3
+- name: US_United States_hy2_0
+  type: hysteria2
+  server: 207.90.239.157
+  port: 3400
+  password: dongtaiwang.com
+  fast-open: true
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: US_United States_hy2_1
+  type: hysteria2
+  server: 207.90.239.157
+  port: 3400
+  password: dongtaiwang.com
+  fast-open: true
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: US_United States_hy2_2
+  type: hysteria2
+  server: 207.90.239.157
+  port: 3400
+  password: dongtaiwang.com
+  fast-open: true
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: US_United States_hy2_3
+  type: hysteria2
+  server: 207.90.239.157
+  port: 3400
+  password: dongtaiwang.com
+  fast-open: true
+  sni: www.bing.com
+  skip-cert-verify: true
 proxy-groups:
 - name: 节点选择
   type: select
@@ -1775,6 +1863,14 @@ proxy-groups:
   - CA_Canada_vmess_62
   - US_United States_vmess_63
   - US_United States_vmess_64
+  - PL_Poland_hy_0
+  - US_United States_hy_1
+  - US_United States_hy_2
+  - US_United States_hy_3
+  - US_United States_hy2_0
+  - US_United States_hy2_1
+  - US_United States_hy2_2
+  - US_United States_hy2_3
 - name: 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
@@ -1890,6 +1986,14 @@ proxy-groups:
   - CA_Canada_vmess_62
   - US_United States_vmess_63
   - US_United States_vmess_64
+  - PL_Poland_hy_0
+  - US_United States_hy_1
+  - US_United States_hy_2
+  - US_United States_hy_3
+  - US_United States_hy2_0
+  - US_United States_hy2_1
+  - US_United States_hy2_2
+  - US_United States_hy2_3
 rules:
 - DOMAIN,clash.razord.top,DIRECT
 - DOMAIN,yacd.haishan.me,DIRECT
