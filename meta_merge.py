@@ -1,10 +1,11 @@
-import yaml
 import json
-import urllib.request
 import logging
-import geoip2.database
-import socket
 import re
+import socket
+import urllib.request
+
+import geoip2.database
+import yaml
 
 
 # 提取节点
@@ -13,11 +14,12 @@ def process_urls(url_file, processor):
         with open(url_file, "r") as file:
             urls = file.read().splitlines()
 
+        unique_servers = {}
         for index, url in enumerate(urls):
             try:
                 response = urllib.request.urlopen(url)
                 data = response.read().decode("utf-8")
-                processor(data, index)
+                processor(data, index, unique_servers)
             except Exception as e:
                 logging.error(f"Error processing URL {url}: {e}")
     except Exception as e:
@@ -25,20 +27,24 @@ def process_urls(url_file, processor):
 
 
 # 提取clash节点
-def process_clash(data, index):
+def process_clash(data, index, unique_servers):
     content = yaml.safe_load(data)
     proxies = content.get("proxies", [])
 
-    unique_proxies = {}
+    unique_proxies = []
 
     for i, proxy in enumerate(proxies):
         server = proxy["server"]
-        if server not in unique_proxies:
-            location = get_physical_location(server)
-            proxy["name"] = f"{location}_{proxy['type']}_{index}{i+1}"
-            unique_proxies[server] = proxy
+        if server in unique_servers:
+            continue
 
-    merged_proxies.extend(unique_proxies.values())
+        location = get_physical_location(server)
+        proxy["name"] = f"{location}_{proxy['type']}_{index}{i + 1}"
+        unique_servers[server] = True
+        unique_proxies.append(proxy)
+
+    merged_proxies.extend(unique_proxies)
+
 
 def get_physical_location(address):
     address = re.sub(":.*", "", address)  # 用正则表达式去除端口部分
@@ -48,14 +54,11 @@ def get_physical_location(address):
         ip_address = address
 
     try:
-        reader = geoip2.database.Reader(
-            "GeoLite2-City.mmdb"
-        )  # 这里的路径需要指向你自己的数据库文件
-        response = reader.city(ip_address)
-        country = response.country.name
-        city = response.city.name
-        return f"{country}_{city}"
-        # return f"油管绵阿羊_{country}"
+        # 这里的路径需要指向你自己的数据库文件
+        response = geo_reader.country(ip_address)
+        iso_code = response.registered_country.iso_code
+        country = response.registered_country.name
+        return f"{iso_code}_{country}"
     except geoip2.errors.AddressNotFoundError as e:
         print(f"Error: {e}")
         return "Unknown"
@@ -286,6 +289,10 @@ def update_warp_proxy_groups(config_warp_data, merged_proxies):
                 group["proxies"].extend(proxy["name"] for proxy in merged_proxies)
 
 
+geo_reader = geoip2.database.Reader(
+    "GeoLite2-Country.mmdb"
+)
+
 # 包含hysteria2
 merged_proxies = []
 
@@ -313,7 +320,6 @@ if "proxies" not in config_data or not config_data["proxies"]:
     config_data["proxies"] = merged_proxies
 else:
     config_data["proxies"].extend(merged_proxies)
-
 
 # 更新自动选择和节点选择的proxies的name部分
 update_proxy_groups(config_data, merged_proxies)
