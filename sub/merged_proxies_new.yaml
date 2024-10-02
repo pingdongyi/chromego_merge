@@ -27,1564 +27,1473 @@ dns:
 proxies:
 - name: US_United States_vmess_01
   type: vmess
-  server: 104.19.38.16
+  server: 104.19.38.8
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_02
   type: vmess
   server: 104.26.0.56
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: CA_Canada_vmess_03
   type: vmess
   server: 23.227.38.3
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_04
   type: vmess
   server: 104.19.38.12
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_05
   type: vmess
   server: 172.64.175.88
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_06
   type: vmess
   server: 172.64.99.22
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_07
   type: vmess
   server: 104.19.21.71
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_08
   type: vmess
   server: 172.64.175.213
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_09
   type: vmess
   server: 172.64.198.249
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_010
   type: vmess
   server: 172.64.194.76
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_011
   type: vmess
   server: 104.19.21.63
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_012
   type: vmess
   server: 104.19.123.11
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_013
   type: vmess
   server: 104.18.57.111
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_014
   type: vmess
   server: 104.19.21.230
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_016
   type: vmess
   server: 104.19.46.103
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_017
   type: vmess
   server: 104.19.32.216
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_018
   type: vmess
   server: 104.19.47.65
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_019
   type: vmess
   server: 104.19.58.175
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_020
   type: vmess
   server: 104.19.55.49
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_021
   type: vmess
   server: 104.19.42.49
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_022
   type: vmess
   server: 104.17.106.151
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_023
   type: vmess
   server: 104.19.57.4
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_024
   type: vmess
   server: 104.19.59.89
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_025
   type: vmess
   server: 104.20.17.186
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_026
   type: vmess
   server: 104.20.25.146
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_028
   type: vmess
   server: 104.26.7.132
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_031
   type: vmess
   server: 104.19.45.11
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_032
   type: vmess
   server: 104.19.45.13
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_033
   type: vmess
   server: 104.19.45.15
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_034
   type: vmess
   server: 104.19.45.17
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_035
   type: vmess
   server: 104.19.45.19
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_036
   type: vmess
   server: 104.19.45.31
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_037
   type: vmess
   server: 104.19.45.35
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_038
   type: vmess
   server: 104.19.45.42
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_039
   type: vmess
   server: 104.19.45.47
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_040
   type: vmess
   server: 104.19.45.50
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_041
   type: vmess
   server: 104.19.45.90
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_042
   type: vmess
   server: 104.26.5.56
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_043
   type: vmess
   server: 104.26.5.66
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_044
   type: vmess
   server: 104.26.5.67
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_045
   type: vmess
   server: 104.26.5.88
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_046
   type: vmess
   server: 104.26.5.90
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_047
   type: vmess
   server: 104.26.5.103
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_048
   type: vmess
   server: 104.26.5.112
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_049
   type: vmess
   server: 104.26.5.113
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_050
   type: vmess
   server: 104.26.5.123
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_051
   type: vmess
   server: 104.26.5.145
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_052
   type: vmess
   server: 162.159.140.19
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_053
   type: vmess
   server: 162.159.140.33
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_054
   type: vmess
   server: 162.159.140.39
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_055
   type: vmess
   server: 162.159.140.45
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_056
   type: vmess
   server: 162.159.140.56
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_057
   type: vmess
   server: 162.159.140.66
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_058
   type: vmess
   server: 162.159.140.77
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_059
   type: vmess
   server: 162.159.140.89
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_060
   type: vmess
   server: 162.159.140.91
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_061
   type: vmess
   server: 162.159.140.93
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_062
   type: vmess
   server: 172.64.167.5
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_063
   type: vmess
   server: 172.64.167.8
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_064
   type: vmess
   server: 172.64.167.10
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_065
   type: vmess
   server: 172.64.167.15
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_066
   type: vmess
   server: 172.64.167.19
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_067
   type: vmess
   server: 172.64.167.22
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_068
   type: vmess
   server: 172.64.167.25
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_069
   type: vmess
   server: 172.64.167.29
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_070
   type: vmess
   server: 172.64.167.35
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_071
   type: vmess
   server: 172.64.167.44
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_072
   type: vmess
   server: 172.64.233.7
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_073
   type: vmess
   server: 172.64.233.9
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_074
   type: vmess
   server: 172.64.233.15
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_075
   type: vmess
   server: 172.64.233.17
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_076
   type: vmess
   server: 172.64.233.24
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_077
   type: vmess
   server: 172.64.233.27
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_078
   type: vmess
   server: 172.64.233.32
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_079
   type: vmess
   server: 172.64.233.35
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_080
   type: vmess
   server: 172.64.233.37
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_081
   type: vmess
   server: 172.64.233.43
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_082
   type: vmess
   server: 172.64.166.2
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_083
   type: vmess
   server: 172.64.166.8
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_084
   type: vmess
   server: 172.64.166.9
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_085
   type: vmess
   server: 172.64.166.12
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_086
   type: vmess
   server: 172.64.166.16
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_087
   type: vmess
   server: 172.64.166.20
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_088
   type: vmess
   server: 172.64.166.22
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_089
   type: vmess
   server: 172.64.166.28
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_090
   type: vmess
   server: 172.64.166.32
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_091
   type: vmess
   server: 172.64.166.33
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_092
   type: vmess
   server: fbi.gov
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: CA_Canada_vmess_093
   type: vmess
   server: shopify.com
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_094
   type: vmess
   server: icook.tw
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_095
   type: vmess
   server: ip.sb
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_096
   type: vmess
   server: japan.com
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_097
   type: vmess
   server: malaysia.com
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_098
   type: vmess
   server: russia.com
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_099
   type: vmess
   server: singapore.com
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_0100
   type: vmess
   server: skk.moe
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
+      Host: ip1.6016725.xyz
 - name: US_United States_vmess_0101
   type: vmess
   server: www.visa.com
   port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  uuid: 78462755-f265-4515-b0af-cb4d524118ae
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   network: ws
-  servername: ip1.589643.xyz
+  servername: ip1.6016725.xyz
   ws-opts:
-    path: dongtaiwang.com
+    path: /78462755-f265-4515-b0af-cb4d524118ae
     headers:
-      Host: ip1.589643.xyz
-- name: US_United States_vmess_11
-  type: vmess
-  server: 104.19.38.17
-  port: 443
+      Host: ip1.6016725.xyz
+- name: CA_Canada_vless_51
+  type: vless
+  server: 108.181.5.21
+  port: 56319
   uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
-  alterId: 0
-  cipher: auto
+  network: tcp
   udp: true
   tls: true
-  network: ws
-  servername: ip1.589643.xyz
-  ws-opts:
-    path: dongtaiwang.com
-    headers:
-      Host: ip1.589643.xyz
-- name: US_United States_vmess_21
-  type: vmess
-  server: 104.19.38.18
-  port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: true
-  network: ws
-  servername: ip1.589643.xyz
-  ws-opts:
-    path: dongtaiwang.com
-    headers:
-      Host: ip1.589643.xyz
-- name: US_United States_vmess_31
-  type: vmess
-  server: 104.19.38.19
-  port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: true
-  network: ws
-  servername: ip1.589643.xyz
-  ws-opts:
-    path: dongtaiwang.com
-    headers:
-      Host: ip1.589643.xyz
-- name: US_United States_vmess_41
-  type: vmess
-  server: 104.19.38.20
-  port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: true
-  network: ws
-  servername: ip1.589643.xyz
-  ws-opts:
-    path: dongtaiwang.com
-    headers:
-      Host: ip1.589643.xyz
-- name: US_United States_vmess_51
-  type: vmess
-  server: 104.19.38.21
-  port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: true
-  network: ws
-  servername: ip1.589643.xyz
-  ws-opts:
-    path: dongtaiwang.com
-    headers:
-      Host: ip1.589643.xyz
-- name: US_United States_vmess_71
-  type: vmess
-  server: 104.19.38.14
-  port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: true
-  network: ws
-  servername: ip1.589643.xyz
-  ws-opts:
-    path: dongtaiwang.com
-    headers:
-      Host: ip1.589643.xyz
-- name: US_United States_vmess_91
-  type: vmess
-  server: 104.19.38.15
-  port: 443
-  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: true
-  network: ws
-  servername: ip1.589643.xyz
-  ws-opts:
-    path: dongtaiwang.com
-    headers:
-      Host: ip1.589643.xyz
+  flow: xtls-rprx-vision
+  servername: www.yahoo.com
+  reality-opts:
+    public-key: tSLtMh9ypKHKhszEhkSGKOG0wp4de5qt65hWNBz1cW0
+    short-id: 12a08916
+  client-fingerprint: chrome
 - name: PL_Poland_hy_0
   type: hysteria
   server: 91.149.239.23
@@ -1776,13 +1685,7 @@ proxy-groups:
   - US_United States_vmess_099
   - US_United States_vmess_0100
   - US_United States_vmess_0101
-  - US_United States_vmess_11
-  - US_United States_vmess_21
-  - US_United States_vmess_31
-  - US_United States_vmess_41
-  - US_United States_vmess_51
-  - US_United States_vmess_71
-  - US_United States_vmess_91
+  - CA_Canada_vless_51
   - PL_Poland_hy_0
   - US_United States_hy_1
   - US_United States_hy_2
@@ -1894,13 +1797,7 @@ proxy-groups:
   - US_United States_vmess_099
   - US_United States_vmess_0100
   - US_United States_vmess_0101
-  - US_United States_vmess_11
-  - US_United States_vmess_21
-  - US_United States_vmess_31
-  - US_United States_vmess_41
-  - US_United States_vmess_51
-  - US_United States_vmess_71
-  - US_United States_vmess_91
+  - CA_Canada_vless_51
   - PL_Poland_hy_0
   - US_United States_hy_1
   - US_United States_hy_2
