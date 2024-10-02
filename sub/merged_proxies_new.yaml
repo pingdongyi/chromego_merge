@@ -27,7 +27,7 @@ dns:
 proxies:
 - name: US_United States_vmess_01
   type: vmess
-  server: 104.19.38.8
+  server: 104.19.38.16
   port: 443
   uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
   alterId: 0
@@ -1480,156 +1480,111 @@ proxies:
     path: dongtaiwang.com
     headers:
       Host: ip1.589643.xyz
+- name: US_United States_vmess_11
+  type: vmess
+  server: 104.19.38.17
+  port: 443
+  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  servername: ip1.589643.xyz
+  ws-opts:
+    path: dongtaiwang.com
+    headers:
+      Host: ip1.589643.xyz
+- name: US_United States_vmess_21
+  type: vmess
+  server: 104.19.38.18
+  port: 443
+  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  servername: ip1.589643.xyz
+  ws-opts:
+    path: dongtaiwang.com
+    headers:
+      Host: ip1.589643.xyz
 - name: US_United States_vmess_31
   type: vmess
-  server: 104.19.32.46
-  port: 2086
-  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+  server: 104.19.38.19
+  port: 443
+  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
   alterId: 0
   cipher: auto
   udp: true
-  tls: false
+  tls: true
   network: ws
-  servername: ip006.3196772.xyz
+  servername: ip1.589643.xyz
   ws-opts:
-    path: github.com/Alvin9999
+    path: dongtaiwang.com
     headers:
-      Host: ip006.3196772.xyz
-- name: CA_Canada_vmess_32
-  type: vmess
-  server: 23.227.38.6
-  port: 2086
-  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: false
-  network: ws
-  servername: ip006.3196772.xyz
-  ws-opts:
-    path: github.com/Alvin9999
-    headers:
-      Host: ip006.3196772.xyz
-- name: US_United States_vmess_33
-  type: vmess
-  server: 104.19.51.232
-  port: 2086
-  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: false
-  network: ws
-  servername: ip006.3196772.xyz
-  ws-opts:
-    path: github.com/Alvin9999
-    headers:
-      Host: ip006.3196772.xyz
-- name: US_United States_vmess_34
-  type: vmess
-  server: 104.19.38.62
-  port: 2086
-  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: false
-  network: ws
-  servername: ip006.3196772.xyz
-  ws-opts:
-    path: github.com/Alvin9999
-    headers:
-      Host: ip006.3196772.xyz
+      Host: ip1.589643.xyz
 - name: US_United States_vmess_41
   type: vmess
-  server: 104.19.46.233
-  port: 2086
-  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+  server: 104.19.38.20
+  port: 443
+  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
   alterId: 0
   cipher: auto
   udp: true
-  tls: false
+  tls: true
   network: ws
-  servername: ip005.3196772.xyz
+  servername: ip1.589643.xyz
   ws-opts:
-    path: github.com/Alvin9999
+    path: dongtaiwang.com
     headers:
-      Host: ip005.3196772.xyz
-- name: US_United States_vmess_61
+      Host: ip1.589643.xyz
+- name: US_United States_vmess_51
   type: vmess
-  server: 104.19.32.88
-  port: 2086
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  server: 104.19.38.21
+  port: 443
+  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
   alterId: 0
   cipher: auto
   udp: true
-  tls: false
+  tls: true
   network: ws
-  servername: ip5-10.freegradely.xyz
+  servername: ip1.589643.xyz
   ws-opts:
-    path: github.com/Alvin9999
+    path: dongtaiwang.com
     headers:
-      Host: ip5-10.freegradely.xyz
-- name: CA_Canada_vmess_62
+      Host: ip1.589643.xyz
+- name: US_United States_vmess_71
   type: vmess
-  server: 23.227.38.8
-  port: 2086
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  server: 104.19.38.14
+  port: 443
+  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
   alterId: 0
   cipher: auto
   udp: true
-  tls: false
+  tls: true
   network: ws
-  servername: ip5-10.freegradely.xyz
+  servername: ip1.589643.xyz
   ws-opts:
-    path: github.com/Alvin9999
+    path: dongtaiwang.com
     headers:
-      Host: ip5-10.freegradely.xyz
-- name: US_United States_vmess_63
+      Host: ip1.589643.xyz
+- name: US_United States_vmess_91
   type: vmess
-  server: 104.26.0.50
-  port: 2086
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  server: 104.19.38.15
+  port: 443
+  uuid: 25d1b318-87e8-4c1e-a784-69783be4b30a
   alterId: 0
   cipher: auto
   udp: true
-  tls: false
+  tls: true
   network: ws
-  servername: ip5-10.freegradely.xyz
+  servername: ip1.589643.xyz
   ws-opts:
-    path: github.com/Alvin9999
+    path: dongtaiwang.com
     headers:
-      Host: ip5-10.freegradely.xyz
-- name: US_United States_vmess_64
-  type: vmess
-  server: 104.19.38.88
-  port: 2086
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: false
-  network: ws
-  servername: ip5-10.freegradely.xyz
-  ws-opts:
-    path: github.com/Alvin9999
-    headers:
-      Host: ip5-10.freegradely.xyz
-- name: US_United States_vmess_81
-  type: vmess
-  server: 104.26.10.11
-  port: 2086
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: false
-  network: ws
-  servername: ip1.1789034.xyz
-  ws-opts:
-    path: github.com/Alvin9999
-    headers:
-      Host: ip1.1789034.xyz
+      Host: ip1.589643.xyz
 - name: PL_Poland_hy_0
   type: hysteria
   server: 91.149.239.23
@@ -1821,16 +1776,13 @@ proxy-groups:
   - US_United States_vmess_099
   - US_United States_vmess_0100
   - US_United States_vmess_0101
+  - US_United States_vmess_11
+  - US_United States_vmess_21
   - US_United States_vmess_31
-  - CA_Canada_vmess_32
-  - US_United States_vmess_33
-  - US_United States_vmess_34
   - US_United States_vmess_41
-  - US_United States_vmess_61
-  - CA_Canada_vmess_62
-  - US_United States_vmess_63
-  - US_United States_vmess_64
-  - US_United States_vmess_81
+  - US_United States_vmess_51
+  - US_United States_vmess_71
+  - US_United States_vmess_91
   - PL_Poland_hy_0
   - US_United States_hy_1
   - US_United States_hy_2
@@ -1942,16 +1894,13 @@ proxy-groups:
   - US_United States_vmess_099
   - US_United States_vmess_0100
   - US_United States_vmess_0101
+  - US_United States_vmess_11
+  - US_United States_vmess_21
   - US_United States_vmess_31
-  - CA_Canada_vmess_32
-  - US_United States_vmess_33
-  - US_United States_vmess_34
   - US_United States_vmess_41
-  - US_United States_vmess_61
-  - CA_Canada_vmess_62
-  - US_United States_vmess_63
-  - US_United States_vmess_64
-  - US_United States_vmess_81
+  - US_United States_vmess_51
+  - US_United States_vmess_71
+  - US_United States_vmess_91
   - PL_Poland_hy_0
   - US_United States_hy_1
   - US_United States_hy_2
