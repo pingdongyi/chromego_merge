@@ -1525,11 +1525,11 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip3.8084726.xyz
-- name: PL_Poland_hy_0
+- name: US_United States_hy_0
   type: hysteria
-  server: 91.149.239.23
-  port: 11223
-  ports: 11223
+  server: 104.192.224.138
+  port: 28850
+  ports: 20000-30000
   auth_str: dongtaiwang.com
   up: 1000
   down: 1000
@@ -1591,8 +1591,8 @@ proxies:
   skip-cert-verify: true
 - name: US_United States_hy2_1
   type: hysteria2
-  server: 207.90.239.157
-  port: 3400
+  server: 64.110.25.12
+  port: 50942
   password: dongtaiwang.com
   fast-open: true
   sni: www.bing.com
@@ -1719,7 +1719,7 @@ proxy-groups:
   - US_United States_vmess_11
   - US_United States_vmess_21
   - US_United States_vmess_61
-  - PL_Poland_hy_0
+  - US_United States_hy_0
   - US_United States_hy_1
   - US_United States_hy_2
   - US_United States_hy_3
@@ -1833,7 +1833,7 @@ proxy-groups:
   - US_United States_vmess_11
   - US_United States_vmess_21
   - US_United States_vmess_61
-  - PL_Poland_hy_0
+  - US_United States_hy_0
   - US_United States_hy_1
   - US_United States_hy_2
   - US_United States_hy_3
