@@ -1490,11 +1490,41 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip5.6929198.xyz
+  servername: ip6.6929198.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip5.6929198.xyz
+      Host: ip6.6929198.xyz
+- name: US_United States_vmess_31
+  type: vmess
+  server: 104.19.38.10
+  port: 2082
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: false
+  network: ws
+  servername: ip6.6929198.xyz
+  ws-opts:
+    path: github.com/Alvin9999
+    headers:
+      Host: ip6.6929198.xyz
+- name: US_United States_vmess_41
+  type: vmess
+  server: 104.19.38.11
+  port: 2082
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: false
+  network: ws
+  servername: ip6.6929198.xyz
+  ws-opts:
+    path: github.com/Alvin9999
+    headers:
+      Host: ip6.6929198.xyz
 - name: US_United States_vmess_61
   type: vmess
   server: 104.21.238.36
@@ -1702,6 +1732,8 @@ proxy-groups:
   - US_United States_vmess_0100
   - US_United States_vmess_0101
   - US_United States_vmess_21
+  - US_United States_vmess_31
+  - US_United States_vmess_41
   - US_United States_vmess_61
   - US_United States_hy_0
   - US_United States_hy_1
@@ -1815,6 +1847,8 @@ proxy-groups:
   - US_United States_vmess_0100
   - US_United States_vmess_0101
   - US_United States_vmess_21
+  - US_United States_vmess_31
+  - US_United States_vmess_41
   - US_United States_vmess_61
   - US_United States_hy_0
   - US_United States_hy_1
