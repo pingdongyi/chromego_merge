@@ -1596,11 +1596,11 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip7.8084726.xyz
-- name: US_United States_hy_0
+- name: RU_Russia_hy_0
   type: hysteria
-  server: 166.1.221.169
-  port: 55555
-  ports: 55555
+  server: 46.17.43.223
+  port: 12311
+  ports: 12311
   auth_str: dongtaiwang.com
   up: 1000
   down: 1000
@@ -1610,11 +1610,11 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: US_United States_hy_1
+- name: RU_Russia_hy_1
   type: hysteria
-  server: 166.1.221.169
-  port: 55555
-  ports: 55555
+  server: 46.17.43.223
+  port: 12311
+  ports: 12311
   auth_str: dongtaiwang.com
   up: 1000
   down: 1000
@@ -1624,11 +1624,11 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: US_United States_hy_2
+- name: RU_Russia_hy_2
   type: hysteria
-  server: 166.1.221.169
-  port: 55555
-  ports: 55555
+  server: 46.17.43.223
+  port: 12311
+  ports: 12311
   auth_str: dongtaiwang.com
   up: 1000
   down: 1000
@@ -1638,11 +1638,11 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: US_United States_hy_3
+- name: RU_Russia_hy_3
   type: hysteria
-  server: 166.1.221.169
-  port: 55555
-  ports: 55555
+  server: 46.17.43.223
+  port: 12311
+  ports: 12311
   auth_str: dongtaiwang.com
   up: 1000
   down: 1000
@@ -1655,7 +1655,7 @@ proxies:
 - name: US_United States_hy2_0
   type: hysteria2
   server: 207.90.239.157
-  port: 11111
+  port: 12344
   password: dongtaiwang.com
   fast-open: true
   sni: www.bing.com
@@ -1663,7 +1663,7 @@ proxies:
 - name: US_United States_hy2_1
   type: hysteria2
   server: 207.90.239.157
-  port: 11111
+  port: 12344
   password: dongtaiwang.com
   fast-open: true
   sni: www.bing.com
@@ -1671,7 +1671,7 @@ proxies:
 - name: US_United States_hy2_2
   type: hysteria2
   server: 207.90.239.157
-  port: 11111
+  port: 12344
   password: dongtaiwang.com
   fast-open: true
   sni: www.bing.com
@@ -1679,7 +1679,7 @@ proxies:
 - name: US_United States_hy2_3
   type: hysteria2
   server: 207.90.239.157
-  port: 11111
+  port: 12344
   password: dongtaiwang.com
   fast-open: true
   sni: www.bing.com
@@ -1795,10 +1795,10 @@ proxy-groups:
   - RU_Russia_hysteria_71
   - US_United States_vmess_81
   - US_United States_vmess_91
-  - US_United States_hy_0
-  - US_United States_hy_1
-  - US_United States_hy_2
-  - US_United States_hy_3
+  - RU_Russia_hy_0
+  - RU_Russia_hy_1
+  - RU_Russia_hy_2
+  - RU_Russia_hy_3
   - US_United States_hy2_0
   - US_United States_hy2_1
   - US_United States_hy2_2
@@ -1914,10 +1914,10 @@ proxy-groups:
   - RU_Russia_hysteria_71
   - US_United States_vmess_81
   - US_United States_vmess_91
-  - US_United States_hy_0
-  - US_United States_hy_1
-  - US_United States_hy_2
-  - US_United States_hy_3
+  - RU_Russia_hy_0
+  - RU_Russia_hy_1
+  - RU_Russia_hy_2
+  - RU_Russia_hy_3
   - US_United States_hy2_0
   - US_United States_hy2_1
   - US_United States_hy2_2
