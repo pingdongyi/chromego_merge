@@ -1505,41 +1505,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip8.6929198.xyz
+  servername: ip9.6929198.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip8.6929198.xyz
-- name: US_United States_vmess_31
-  type: vmess
-  server: 104.19.38.10
-  port: 2082
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: false
-  network: ws
-  servername: ip8.6929198.xyz
-  ws-opts:
-    path: github.com/Alvin9999
-    headers:
-      Host: ip8.6929198.xyz
-- name: US_United States_vmess_41
-  type: vmess
-  server: 104.19.38.11
-  port: 2082
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: false
-  network: ws
-  servername: ip8.6929198.xyz
-  ws-opts:
-    path: github.com/Alvin9999
-    headers:
-      Host: ip8.6929198.xyz
+      Host: ip9.6929198.xyz
 - name: US_United States_vmess_61
   type: vmess
   server: 104.21.238.37
@@ -1550,11 +1520,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip8.8084726.xyz
+  servername: ip9.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip8.8084726.xyz
+      Host: ip9.8084726.xyz
 - name: RU_Russia_hysteria_71
   type: hysteria
   server: 46.29.166.206
@@ -1759,8 +1729,6 @@ proxy-groups:
   - US_United States_vmess_0101
   - US_United States_vmess_11
   - US_United States_vmess_21
-  - US_United States_vmess_31
-  - US_United States_vmess_41
   - US_United States_vmess_61
   - RU_Russia_hysteria_71
   - RU_Russia_hy_0
@@ -1876,8 +1844,6 @@ proxy-groups:
   - US_United States_vmess_0101
   - US_United States_vmess_11
   - US_United States_vmess_21
-  - US_United States_vmess_31
-  - US_United States_vmess_41
   - US_United States_vmess_61
   - RU_Russia_hysteria_71
   - RU_Russia_hy_0
