@@ -1495,22 +1495,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip11.6929198.xyz
-- name: US_United States_vmess_61
-  type: vmess
-  server: 104.21.238.37
-  port: 2095
-  uuid: a63e9c8c-2c04-4b8e-af6a-4a02494a1f0b
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: false
-  network: ws
-  servername: ip11.8084726.xyz
-  ws-opts:
-    path: github.com/Alvin9999
-    headers:
-      Host: ip11.8084726.xyz
-- name: RU_Russia_hysteria_71
+- name: RU_Russia_hysteria_61
   type: hysteria
   server: 46.29.166.206
   port: 100
@@ -1577,34 +1562,34 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: US_United States_hy2_0
+- name: RU_Russia_hy2_0
   type: hysteria2
-  server: 207.90.239.157
-  port: 11276
+  server: 185.22.152.93
+  port: 33713
   password: dongtaiwang.com
   fast-open: true
   sni: www.bing.com
   skip-cert-verify: true
-- name: US_United States_hy2_1
+- name: RU_Russia_hy2_1
   type: hysteria2
-  server: 207.90.239.157
-  port: 11276
+  server: 185.22.152.93
+  port: 33713
   password: dongtaiwang.com
   fast-open: true
   sni: www.bing.com
   skip-cert-verify: true
-- name: US_United States_hy2_2
+- name: RU_Russia_hy2_2
   type: hysteria2
-  server: 207.90.239.157
-  port: 11276
+  server: 185.22.152.93
+  port: 33713
   password: dongtaiwang.com
   fast-open: true
   sni: www.bing.com
   skip-cert-verify: true
-- name: US_United States_hy2_3
+- name: RU_Russia_hy2_3
   type: hysteria2
-  server: 207.90.239.157
-  port: 11276
+  server: 185.22.152.93
+  port: 33713
   password: dongtaiwang.com
   fast-open: true
   sni: www.bing.com
@@ -1713,16 +1698,15 @@ proxy-groups:
   - US_United States_vmess_0100
   - US_United States_vmess_0101
   - US_United States_vmess_21
-  - US_United States_vmess_61
-  - RU_Russia_hysteria_71
+  - RU_Russia_hysteria_61
   - RU_Russia_hy_0
   - RU_Russia_hy_1
   - RU_Russia_hy_2
   - RU_Russia_hy_3
-  - US_United States_hy2_0
-  - US_United States_hy2_1
-  - US_United States_hy2_2
-  - US_United States_hy2_3
+  - RU_Russia_hy2_0
+  - RU_Russia_hy2_1
+  - RU_Russia_hy2_2
+  - RU_Russia_hy2_3
 - name: 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
@@ -1827,16 +1811,15 @@ proxy-groups:
   - US_United States_vmess_0100
   - US_United States_vmess_0101
   - US_United States_vmess_21
-  - US_United States_vmess_61
-  - RU_Russia_hysteria_71
+  - RU_Russia_hysteria_61
   - RU_Russia_hy_0
   - RU_Russia_hy_1
   - RU_Russia_hy_2
   - RU_Russia_hy_3
-  - US_United States_hy2_0
-  - US_United States_hy2_1
-  - US_United States_hy2_2
-  - US_United States_hy2_3
+  - RU_Russia_hy2_0
+  - RU_Russia_hy2_1
+  - RU_Russia_hy2_2
+  - RU_Russia_hy2_3
 rules:
 - DOMAIN,clash.razord.top,DIRECT
 - DOMAIN,yacd.haishan.me,DIRECT
