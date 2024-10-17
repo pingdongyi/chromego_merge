@@ -1480,6 +1480,78 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip11.6016725.xyz
+- name: US_United States_vmess_11
+  type: vmess
+  server: 104.21.238.200
+  port: 8443
+  uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: http1.9290254.xyz
+  network: ws
+  ws-opts:
+    path: github.com/Alvin9999
+    headers:
+      Host: http1.9290254.xyz
+    early-data-header-name: Sec-WebSocket-Protocol
+    v2ray-http-upgrade: true
+    v2ray-http-upgrade-fast-open: true
+- name: US_United States_vmess_12
+  type: vmess
+  server: 104.21.238.201
+  port: 8443
+  uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: http1.9290254.xyz
+  network: ws
+  ws-opts:
+    path: github.com/Alvin9999
+    headers:
+      Host: http1.9290254.xyz
+    early-data-header-name: Sec-WebSocket-Protocol
+    v2ray-http-upgrade: true
+    v2ray-http-upgrade-fast-open: true
+- name: US_United States_vmess_13
+  type: vmess
+  server: 104.21.238.202
+  port: 8443
+  uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: http1.9290254.xyz
+  network: ws
+  ws-opts:
+    path: github.com/Alvin9999
+    headers:
+      Host: http1.9290254.xyz
+    early-data-header-name: Sec-WebSocket-Protocol
+    v2ray-http-upgrade: true
+    v2ray-http-upgrade-fast-open: true
+- name: US_United States_vmess_14
+  type: vmess
+  server: 104.21.238.203
+  port: 8443
+  uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  servername: http1.9290254.xyz
+  network: ws
+  ws-opts:
+    path: github.com/Alvin9999
+    headers:
+      Host: http1.9290254.xyz
+    early-data-header-name: Sec-WebSocket-Protocol
+    v2ray-http-upgrade: true
+    v2ray-http-upgrade-fast-open: true
 - name: US_United States_vmess_21
   type: vmess
   server: 104.19.38.9
@@ -1700,6 +1772,10 @@ proxy-groups:
   - US_United States_vmess_099
   - US_United States_vmess_0100
   - US_United States_vmess_0101
+  - US_United States_vmess_11
+  - US_United States_vmess_12
+  - US_United States_vmess_13
+  - US_United States_vmess_14
   - US_United States_vmess_21
   - RU_Russia_vless_61
   - FR_France_hy_0
@@ -1813,6 +1889,10 @@ proxy-groups:
   - US_United States_vmess_099
   - US_United States_vmess_0100
   - US_United States_vmess_0101
+  - US_United States_vmess_11
+  - US_United States_vmess_12
+  - US_United States_vmess_13
+  - US_United States_vmess_14
   - US_United States_vmess_21
   - RU_Russia_vless_61
   - FR_France_hy_0
