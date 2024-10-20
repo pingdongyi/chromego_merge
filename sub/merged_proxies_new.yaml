@@ -175,10 +175,10 @@ proxies:
   fast-open: true
   sni: www.bing.com
   skip-cert-verify: true
-- name: RU_Russia_hy2_1
+- name: GB_United Kingdom_hy2_1
   type: hysteria2
-  server: 185.22.152.93
-  port: 47382
+  server: 163.172.220.28
+  port: 11622
   password: dongtaiwang.com
   fast-open: true
   sni: www.bing.com
@@ -215,7 +215,7 @@ proxy-groups:
   - RU_Russia_hy_2
   - RU_Russia_hy_3
   - RU_Russia_hy2_0
-  - RU_Russia_hy2_1
+  - GB_United Kingdom_hy2_1
   - RU_Russia_hy2_2
   - RU_Russia_hy2_3
 - name: 自动选择
@@ -234,7 +234,7 @@ proxy-groups:
   - RU_Russia_hy_2
   - RU_Russia_hy_3
   - RU_Russia_hy2_0
-  - RU_Russia_hy2_1
+  - GB_United Kingdom_hy2_1
   - RU_Russia_hy2_2
   - RU_Russia_hy2_3
 rules:
