@@ -111,11 +111,11 @@ proxies:
     public-key: bzpKT_Fgsm2k0oAe5SXJmbQN8OxK4AA4NR42yqM-hnI
     short-id: ''
   client-fingerprint: chrome
-- name: FR_France_hy_0
+- name: RU_Russia_hy_0
   type: hysteria
-  server: 62.210.8.63
-  port: 2345
-  ports: 2345
+  server: 46.17.43.223
+  port: 12311
+  ports: 12311
   auth_str: dongtaiwang.com
   up: 1000
   down: 1000
@@ -210,7 +210,7 @@ proxy-groups:
   - US_United States_vmess_03
   - US_United States_vmess_04
   - RU_Russia_vless_21
-  - FR_France_hy_0
+  - RU_Russia_hy_0
   - RU_Russia_hy_1
   - RU_Russia_hy_2
   - RU_Russia_hy_3
@@ -229,7 +229,7 @@ proxy-groups:
   - US_United States_vmess_03
   - US_United States_vmess_04
   - RU_Russia_vless_21
-  - FR_France_hy_0
+  - RU_Russia_hy_0
   - RU_Russia_hy_1
   - RU_Russia_hy_2
   - RU_Russia_hy_3
