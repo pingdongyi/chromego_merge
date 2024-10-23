@@ -128,8 +128,8 @@ proxies:
 - name: RU_Russia_hy_1
   type: hysteria
   server: 46.17.43.223
-  port: 23142
-  ports: 23142
+  port: 12345
+  ports: 12345
   auth_str: dongtaiwang.com
   up: 1000
   down: 1000
@@ -142,8 +142,8 @@ proxies:
 - name: RU_Russia_hy_2
   type: hysteria
   server: 46.17.43.223
-  port: 23142
-  ports: 23142
+  port: 12345
+  ports: 12345
   auth_str: dongtaiwang.com
   up: 1000
   down: 1000
@@ -156,8 +156,8 @@ proxies:
 - name: RU_Russia_hy_3
   type: hysteria
   server: 46.17.43.223
-  port: 23142
-  ports: 23142
+  port: 12345
+  ports: 12345
   auth_str: dongtaiwang.com
   up: 1000
   down: 1000
