@@ -1562,11 +1562,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip26.6929198.xyz
+  servername: ip27.6929198.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip26.6929198.xyz
+      Host: ip27.6929198.xyz
 - name: RU_Russia_vless_61
   type: vless
   server: 46.29.166.206
