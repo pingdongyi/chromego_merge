@@ -27,7 +27,7 @@ dns:
 proxies:
 - name: US_United States_vmess_01
   type: vmess
-  server: 104.21.238.1
+  server: 104.18.114.1
   port: 8880
   uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
   alterId: 0
@@ -7513,21 +7513,6 @@ proxies:
 - name: US_United States_vmess_0500
   type: vmess
   server: 104.26.0.250
-  port: 8880
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: false
-  network: ws
-  servername: m2.106778.xyz
-  ws-opts:
-    path: github.com/Alvin9999
-    headers:
-      Host: m2.106778.xyz
-- name: US_United States_vmess_0501
-  type: vmess
-  server: 104.18.114.1
   port: 8880
   uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
   alterId: 0
@@ -15631,7 +15616,6 @@ proxy-groups:
   - US_United States_vmess_0498
   - US_United States_vmess_0499
   - US_United States_vmess_0500
-  - US_United States_vmess_0501
   - US_United States_vmess_0502
   - US_United States_vmess_0503
   - US_United States_vmess_0504
@@ -16646,7 +16630,6 @@ proxy-groups:
   - US_United States_vmess_0498
   - US_United States_vmess_0499
   - US_United States_vmess_0500
-  - US_United States_vmess_0501
   - US_United States_vmess_0502
   - US_United States_vmess_0503
   - US_United States_vmess_0504
